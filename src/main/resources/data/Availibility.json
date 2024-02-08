@@ -1,0 +1,36 @@
+{
+  "availabilityTimings": {
+    "monday": [{
+      "start": "08:30",
+      "end": "11:45"
+    }
+    ],
+    "tuesday": [{
+      "start": "08:30",
+      "end": "11:45"
+    }],
+    "wednesday": [{
+      "start": "08:30",
+      "end": "11:45"
+    },
+      {
+        "start": "14:30",
+        "end": "16:45"
+      }],
+
+    "thursday": [{
+      "start": "08:30",
+      "end": "11:45"
+    }],
+    "friday": [],
+
+    "saturday": [{
+      "start": "08:30",
+      "end": "11:45"
+    }],
+    "sunday": [{
+      "start": "08:30",
+      "end": "09:45"
+    }]
+  }
+}
